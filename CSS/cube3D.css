@@ -23,11 +23,13 @@ html{
 
 .wrap{
   perspective: 1000px;
-  width: 300px;
+  width: 400px;
+  height: 400px;
   margin: 200px auto;
 }
 
 .cube{
+  top: 100px;
   margin: auto;
   width: 200px;
   height: 200px;
